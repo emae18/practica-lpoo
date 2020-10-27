@@ -23,7 +23,7 @@ namespace Datos
             using(db_agencyEntities db = new db_agencyEntities())
             {
                 User res = db.Users.Find(oUser.idUser);
-
+                //Comentario de prueba
                 res.loginName = oUser.loginName;
                 res.password = oUser.password;
                 res.firstName = oUser.firstName;
