@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Datos;
+using Entidades;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +8,26 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    class EmployeeModel
+    public class EmployeeModel
     {
+         public void AltaEmpleado()
+        {
+        
+        }
+
+        public void ModificarEmpleado()
+        {
+            
+        }
+
+        public void EliminarEmpleado(int id)
+        {
+            
+        }
+
+        public List<Employee> ListarEmpleados()
+        {
+            return;
+        }
     }
 }
