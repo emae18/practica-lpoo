@@ -27,7 +27,7 @@ namespace Dominio
 
         public List<Employee> ListarEmpleados()
         {
-            return;
+            return null;
         }
     }
 }
