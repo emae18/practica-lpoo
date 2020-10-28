@@ -11,5 +11,8 @@ namespace Dominio
         public void UpdateClass1(){
             
         }
+        public void InsertClass1(){
+            
+        }
     }
 }
