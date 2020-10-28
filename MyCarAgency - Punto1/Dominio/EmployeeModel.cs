@@ -12,7 +12,7 @@ namespace Dominio
     {
          public void AltaEmpleado()
         {
-        
+        // Comentario
         }
 
         public void ModificarEmpleado()
