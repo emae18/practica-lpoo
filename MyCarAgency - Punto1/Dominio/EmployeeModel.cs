@@ -12,7 +12,7 @@ namespace Dominio
     {
          public void AltaEmpleado()
         {
-        
+        // Comentario
         }
 
         public void ModificarEmpleado()
@@ -27,7 +27,7 @@ namespace Dominio
 
         public List<Employee> ListarEmpleados()
         {
-            return;
+            return null;
         }
     }
 }
